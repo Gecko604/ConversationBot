@@ -10,7 +10,10 @@
     "responses": ["I was created yesterday!"]},
   {"tag": "love",
     "patterns": ["What are your thoughts on love?", "Do you love anyone?", "Have you ever loved?", "Do you have a lover?", "Love me"],
-    "responses": ["Love is a serious mental disease.", "At the touch of love, everyone becomes a poet."]}
+    "responses": ["Love is a serious mental disease.", "At the touch of love, everyone becomes a poet."]},
+    {"tag": "knowledge",
+      "patterns": ["What are your thoughts on knowledge?"],
+      "responses": ["Knowledge becomes evil if the aim be not virtuous."]}
 ]
 
 }
