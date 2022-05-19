@@ -1,0 +1,16 @@
+{"intents": [
+  {"tag": "greetings",
+  "patterns": ["Hi", "Hello", "Hey", "What's up", "Good day"],
+  "responses": ["Hello!", "Hello Sir!"]},
+  {"tag": "man",
+    "patterns": ["What is man?"],
+    "responses": ["Man is a two-legged animal without feathers."]},
+  {"tag": "age",
+    "patterns": ["How old are you?", "What is your age?"],
+    "responses": ["I was created yesterday!"]},
+  {"tag": "love",
+    "patterns": ["What are your thoughts on love?", "Do you love anyone?", "Have you ever loved?", "Do you have a lover?", "Love me"],
+    "responses": ["Love is a serious mental disease.", "At the touch of love, everyone becomes a poet."]}
+]
+
+}
